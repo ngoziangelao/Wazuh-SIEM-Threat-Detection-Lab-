@@ -19,7 +19,6 @@ A hands-on SOC lab where I set up Wazuh SIEM to monitor a network, catch suspici
 4. **Tested Everything:** Triggered test alerts and downloaded a safe test malware signature (EICAR) to confirm that alerts appear on the dashboard in real time.
 
 
----
 
 # 💡 Key Takeaway
 "Cybersecurity isn't always about getting everything right immediately. It's about breaking things, troubleshooting, learning from errors, and building stronger defenses."
