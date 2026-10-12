@@ -1,9 +1,9 @@
- Wazuh SIEM & Threat Detection Lab 🛡️
+# Wazuh SIEM & Threat Detection Lab 🛡️
 
 A hands-on SOC lab where I set up Wazuh SIEM to monitor a network, catch suspicious activity using Suricata, and automatically check files for viruses using VirusTotal.
 
 
-📌 Setup at a Glance
+# 📌 Setup at a Glance
 * Wazuh Manager: Kali Linux (The central brain & dashboard)
 * Wazuh Agent: Ubuntu (The monitored machine)
 * Traffic Inspector: Suricata NIDS (Watches network activity)
